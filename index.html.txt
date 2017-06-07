@@ -1,0 +1,12 @@
+<html>
+	<head>
+<title> rezume</title>
+	</head>
+	<body>
+	<div> языки программирования
+	<li> pervyi</li>
+	<li> vtoroyi</li>
+	<li> tretii</li>
+ </div>
+</body>
+</html>
